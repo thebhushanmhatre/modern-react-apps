@@ -10,6 +10,9 @@ export default function Navbar() {
       <div className="links">
         <Link to="/create">Create</Link>
       </div>
+      <div className="links">
+        <Link to="/scroll">ScrollApp</Link>
+      </div>
     </nav>
   )
 }
